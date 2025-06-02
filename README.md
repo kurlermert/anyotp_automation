@@ -70,7 +70,7 @@ python anyotp_automation.py
 
 ## 📷 Ekran Görüntüsü
 
-![AnyOTP Otomasyon Arayüzü](screenshot.png)
+![AnyOTP Otomasyon Arayüzü](Screenshot.png)
 
 > Uygulamanın çalışır halini gösteren ekran görüntüsü.
 
