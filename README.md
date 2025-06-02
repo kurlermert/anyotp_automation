@@ -100,19 +100,4 @@ Bu proje [MIT License](LICENSE) ile lisanslanmıştır.
 
 ---
 
-## ✨ Katkıda Bulunmak
 
-Katkıda bulunmak isterseniz:
-
-1. Fork'layın 🍴
-2. Değişiklik yapın ✏️
-3. Pull Request gönderin 🚀
-
----
-
-## 🤝 İletişim
-
-- **GitHub**: [KULLANICI_ADIN](https://github.com/KULLANICI_ADIN)
-- **E-posta**: email@example.com
-
----
